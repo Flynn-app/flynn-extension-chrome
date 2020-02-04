@@ -2,7 +2,7 @@
   "name": "Flynn chrome extension",
   "version": "1.0",
   "description": "Pourquoi lire Ecoutez!!!",
-  "manifest_version": 2
+  "manifest_version": 2,
 
   "background": {
     "scripts": ["background.js"]
@@ -10,6 +10,5 @@
 
   "permissions": [
     "activeTab"
-  ],
-
+  ]
 }

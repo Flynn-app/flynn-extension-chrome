@@ -1,2 +1,2 @@
 # flynn-extension-chrome
-chrome extension for Flynn
+chrome extension for Flynn :)
